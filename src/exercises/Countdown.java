@@ -14,7 +14,7 @@ import javax.swing.Timer;
 /*
  * I wanted to do this exercise in the style of pop-up.
  * That's why I was searching Google on how it can be done.
- * Some solutions I found were good inspiration.
+ * Some solutions I found were good inspiration (for example, ideas for digital clock, etc).
  * I know that it was supposed to use a for-loop...
  */
 public class Countdown {
